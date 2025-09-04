@@ -1,0 +1,75 @@
++--------------------------+-----------------------------------------------+-----------------------------------------------------+--------------------+------------+--------------------------------------------------+
+| Name                     | What it is                                    | How it’s useful                                     | Language/Concept   | Importance | Why                                              |
++--------------------------+-----------------------------------------------+-----------------------------------------------------+--------------------+------------+--------------------------------------------------+
+
+| Scikit-Learn             | Machine learning library for classical ML     | Great for regression, classification, clustering    | Python, ML         | High       | Best way to learn ML fundamentals before DL      |
++--------------------------+-----------------------------------------------+-----------------------------------------------------+--------------------+------------+--------------------------------------------------+
+
+| PyTorch                  | Deep learning framework                       | Flexible, popular in research/industry              | Python, Deep Learn | High       | Industry standard for DL, especially modern AI   |
++--------------------------+-----------------------------------------------+-----------------------------------------------------+--------------------+------------+--------------------------------------------------+
+
+| TensorFlow               | Deep learning framework (with Keras API)      | Build/train neural networks, widely used in prod    | Python, Deep Learn | High       | Widely used in companies; Keras makes NN easier  |
++--------------------------+-----------------------------------------------+-----------------------------------------------------+--------------------+------------+--------------------------------------------------+
+
+| Keras                    | High-level API within TensorFlow              | Makes neural network building easier                | Python, Deep Learn | High       | Great intro without overwhelming code            |
++--------------------------+-----------------------------------------------+-----------------------------------------------------+--------------------+------------+--------------------------------------------------+
+
+| Jupyter Notebook         | Interactive coding environment                | Experiment with code, visualize data, document      | Python, Tool       | High       | Standard ML/DL workflow environment              |
++--------------------------+-----------------------------------------------+-----------------------------------------------------+--------------------+------------+--------------------------------------------------+
+
+| Google Colab             | Cloud Jupyter Notebook with free GPU          | Run experiments with heavy models                   | Python, Tool       | High       | Lets you train DL models without strong hardware |
++--------------------------+-----------------------------------------------+-----------------------------------------------------+--------------------+------------+--------------------------------------------------+
+
+| Hugging Face (Transform) | Pretrained AI models hub                      | Access state-of-the-art NLP, CV, audio models       | Python, AI/DL      | Medium     | Shortcut to cutting-edge AI without scratch      |
++--------------------------+-----------------------------------------------+-----------------------------------------------------+--------------------+------------+--------------------------------------------------+
+
+| FastAI                   | Deep learning library built on PyTorch        | Simplifies model building/training                  | Python, Deep Learn | Medium     | Beginner-friendly DL experiments after PyTorch   |
++--------------------------+-----------------------------------------------+-----------------------------------------------------+--------------------+------------+--------------------------------------------------+
+
+| XGBoost                  | Gradient boosting ML library                  | Very strong for tabular/structured data             | Python, ML         | Medium     | Extremely powerful for competitions & real-world |
++--------------------------+-----------------------------------------------+-----------------------------------------------------+--------------------+------------+--------------------------------------------------+
+
+| LightGBM                 | Gradient boosting ML library (Microsoft)      | Faster, more memory-efficient than XGBoost          | Python, ML         | Medium     | Useful alternative for large datasets            |
++--------------------------+-----------------------------------------------+-----------------------------------------------------+--------------------+------------+--------------------------------------------------+
+
+| CatBoost                 | Gradient boosting ML library (Yandex)         | Handles categorical data automatically              | Python, ML         | Medium     | Saves time when handling categorical-heavy data  |
++--------------------------+-----------------------------------------------+-----------------------------------------------------+--------------------+------------+--------------------------------------------------+
+
+| Scikit-Learn Pipelines   | Workflow tool in Scikit-Learn                 | Organize preprocessing + training into steps        | Python, ML         | Medium     | Builds good habits for structuring ML projects   |
++--------------------------+-----------------------------------------------+-----------------------------------------------------+--------------------+------------+--------------------------------------------------+
+
+| SciPy                    | Scientific computing library                  | Stats, optimization, signal/image processing        | Python, Math/Stats | Medium     | Complements NumPy for scientific/math functions  |
++--------------------------+-----------------------------------------------+-----------------------------------------------------+--------------------+------------+--------------------------------------------------+
+
+| NumPy                    | Numerical computing library                   | Arrays, linear algebra, numerical ops foundation    | Python, Math       | Medium     | Core math library used in nearly every ML/DL lib |
++--------------------------+-----------------------------------------------+-----------------------------------------------------+--------------------+------------+--------------------------------------------------+
+
+| Pandas                   | Data analysis/manipulation library            | DataFrames, cleaning, preprocessing, handling sets  | Python, Data       | Medium     | Essential for dataset manipulation & prep        |
++--------------------------+-----------------------------------------------+-----------------------------------------------------+--------------------+------------+--------------------------------------------------+
+
+| Matplotlib               | Visualization library                         | Basic plots, graphs, charts                         | Python, Viz        | Medium     | First step to understanding data visually        |
++--------------------------+-----------------------------------------------+-----------------------------------------------------+--------------------+------------+--------------------------------------------------+
+
+| Seaborn                  | Statistical visualization library             | Prettier charts, heatmaps, distributions            | Python, Viz        | Medium     | Makes data patterns clearer and easier to spot   |
++--------------------------+-----------------------------------------------+-----------------------------------------------------+--------------------+------------+--------------------------------------------------+
+
+| Plotly                   | Interactive visualization library             | Dashboards, interactive charts, works in web apps   | Python, Viz        | Low        | Nice for presentations, less urgent early on     |
++--------------------------+-----------------------------------------------+-----------------------------------------------------+--------------------+------------+--------------------------------------------------+
+
+| Scikit-Image             | Image processing library                      | Filtering, transformations, computer vision basics  | Python, CV         | Low        | Only needed if focusing on image-related ML      |
++--------------------------+-----------------------------------------------+-----------------------------------------------------+--------------------+------------+--------------------------------------------------+
+
+| OpenCV                   | Computer vision library                       | Image recognition, object detection, video          | Python/C++, CV     | Low        | Useful for CV, not needed for general ML         |
++--------------------------+-----------------------------------------------+-----------------------------------------------------+--------------------+------------+--------------------------------------------------+
+
+| NLTK                     | Natural Language Toolkit                      | Tokenization, stemming, classic NLP methods         | Python, NLP        | Low        | Outdated, but good for NLP fundamentals          |
++--------------------------+-----------------------------------------------+-----------------------------------------------------+--------------------+------------+--------------------------------------------------+
+
+| spaCy                    | Modern NLP library                            | Practical NLP (NER, POS tagging, parsing)           | Python, NLP        | Low        | Useful if diving into NLP, but not core ML       |
++--------------------------+-----------------------------------------------+-----------------------------------------------------+--------------------+------------+--------------------------------------------------+
+
+| MLflow                   | Experiment tracking framework                 | Manage ML lifecycle: training, experiments, deploy  | Python, MLOps      | Low        | Needed for large projects w/ many experiments    |
++--------------------------+-----------------------------------------------+-----------------------------------------------------+--------------------+------------+--------------------------------------------------+
+
+| Weights & Biases         | Experiment tracking & monitoring tool         | Track experiments, visualize metrics, collaborate   | Python, MLOps      | Low        | Helpful for collaboration, not first learning    |
++--------------------------+-----------------------------------------------+-----------------------------------------------------+--------------------+------------+--------------------------------------------------+
